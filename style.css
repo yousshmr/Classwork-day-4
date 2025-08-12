@@ -6,6 +6,7 @@ border: 5px;
 background-color: rgb(183, 203, 35);
 padding: 2%;
 margin:20px ;
+box-shadow: 5px 5px rgb(79, 78, 78)
 }
 
 .container1 {
@@ -23,6 +24,7 @@ border: 50px;
 width: 700px;
 align-content: flex-end;
 align-items: center
+
 
 
 
